@@ -5,3 +5,6 @@ npm install
 
 ## 立ち上げ
 ng serve
+
+## アクセス
+http://localhost:4200
