@@ -1,4 +1,8 @@
 # first-app
+勉強用Angularプロジェクト
+
+## Angular 入門チュートリアル - はじめての Angular
+https://angular.jp/tutorial/first-app
 
 ## 環境構築
 npm install
