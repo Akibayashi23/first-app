@@ -12,3 +12,9 @@ ng serve
 
 ## アクセス
 http://localhost:4200
+
+## jsonのデータを確認
+json-server --watch db.json
+
+### アクセス
+http://localhost:3000/locations
